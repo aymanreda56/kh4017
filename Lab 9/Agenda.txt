@@ -1,0 +1,18 @@
+Recursion explanation
+	splitting a problem into subproblems
+	Start with a very small case, then build accordingly
+	recursion is easy
+	don't forget the base case, and the recursing case
+
+
+Dictionary data type:
+	creation
+	insertion
+	deletion
+	updating
+	copying
+
+
+arguments are passed by their TRUE object.
+Shallow copy vs deep copy
+when to use each?
