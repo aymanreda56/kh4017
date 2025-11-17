@@ -1,0 +1,56 @@
+MEQ for Ayman
+Model attempt 1 is already uploaded on Moodle
+Assert
+difference between assert and if else
+
+
+Exceptions (what are their sources?)
+Look at the different types of exceptions
+
+Handling general exceptions (try except)
+
+Handling specific types of exceptions
+
+Handling multiple exceptions at once
+
+Making a custom exception
+
+Raising an exception (What if you are writing code that someone else will use, you have to prevent him from misusing your code)
+
+
+Advantages
+Below are some benefits of using exception handling:
+
+Improved reliability: Programs don’t crash on unexpected input.
+Separation of concerns: Error-handling code stays separate from business logic.
+Cleaner code: Fewer conditional checks scattered in code.
+Helpful debugging: Tracebacks show exactly where the problem occurred.
+Disadvantages
+Exception handling have some cons as well which are listed below:
+
+Performance overhead: Handling exceptions is slower than simple condition checks.
+Added complexity: Multiple exception types may complicate code.
+Security risks: Poorly handled exceptions might leak sensitive details.
+
+
+difference between if else, assert and exception
+
+
+
+Break
+
+
+Debugging via print and why it is not the best approach
+Debugging via the python debugger
+Breakpoints
+
+
+
+2D lists and 3D lists
+list traversal and indexing
+string indexing
+len() function
+iterating over a list via 2 ways (via index, and via element iterator)
+
+Talk about W3Schools
+Talk about CW milestone 2
