@@ -1,0 +1,31 @@
+Some code and discussing the big O notation of each regarding the time and space complexity
+example#1
+
+
+
+
+example#6
+
+Big O vs Theta vs Omega
+
+
+
+
+
+Dealing with 2d Lists
+Binary operations (Forcing 1, forcing 0)
+Opening a binary file and seeking to a certain byte
+the Bytes object
+Speaking about JPG, PNG and BMP file formats. Lossy, Losseless and no compression.
+
+
+
+List operations:
+append
+find
+remove
+extend
+replace
+
+
+Dictionary operations:

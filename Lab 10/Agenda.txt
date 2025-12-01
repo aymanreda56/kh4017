@@ -51,6 +51,7 @@ list traversal and indexing
 string indexing
 len() function
 iterating over a list via 2 ways (via index, and via element iterator)
+super() and __init__()
 
 Talk about W3Schools
 Talk about CW milestone 2

@@ -1,0 +1,6 @@
+Algorithm ADD SCALAR(A, B)
+//Description: Perform arithmetic addition of two numbers
+//Input: Two scalar variables A and B
+//Output: variable C, which holds the addition of A and B
+C <- A + B
+return C

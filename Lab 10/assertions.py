@@ -8,6 +8,70 @@
 
 # Let's discuss all side cases, handle them via assertions
 
+class Pen():
+    def __init__(self):
+        pass
+
+
+def grade(score):
+    grade = ''
+    assert type(score) == int
+    assert score <= 110
+    assert score >= 0
+
+    if score >=85:
+        grade = 'A'
+    elif score >= 75:
+        grade = 'B'
+    elif score >= 65:
+        grade = 'C'
+    elif score >= 50:
+        grade = 'D'
+    elif score >= 0:
+        grade = 'F'
+    
+    return grade
+
+y = grade(20)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def Grade(score):
+#     assert type(score) == int
+#     print("AYMAN")
+#     assert score >= 0
+
+#     grade = ''
+#     if score >= 85:
+#         grade = "A"
+
+#     elif score >= 75:
+#         grade = "B"
+    
+#     elif score >= 65:
+#         grade = "c"
+
+#     elif score >= 50:
+#         grade = "d"
+    
+#     else:
+#         grade = "f"
+
+#     print(grade)
+#     return grade
+
+# g = Grade('9')
 
 
 
